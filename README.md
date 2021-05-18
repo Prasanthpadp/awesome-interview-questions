@@ -107,6 +107,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 * [Android Interview Questions & How to Interview Candidates](https://pangara.com/blog/android-interview-questions)
 * [RocketSkill App Android Interview Questions](https://github.com/mindash/android-structured-interview)
+* [35+ Android Interview Questions](https://www.interviewbit.com/android-interview-questions/)
 
 ### AngularJS
 
